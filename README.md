@@ -71,22 +71,17 @@ _Private Tutor for High School Students_
 - Provided supplementary private tuition, preparing students for university admission national exams in basic programming and network fundamentals. The equivalent in the UK would be to prepare year 10-11 students for their technology GCSE examinations.
 - Achieved a 100% success rate of all of my student’s goals, one of which was to be accepted into an undergraduate course in Automation Engineering at the Technological Sector of the Higher Educational Institution of Piraeus. <br>
 ***Tech***  *: Pascal · Microsoft Word · Human Resource Machine Game* <br>
-***Skills***  *: Basic Internet Principles · Communication · Resourcefulness · Empathy · Active Listening · Goal Setting*
+***Skills***  *: Basic HTTP Principles · Communication · Resourcefulness · Empathy · Active Listening · Goal Setting*
 
+For a complete list of my work experience please visit my [LinkedIn Profile](https://www.linkedin.com/in/lydia-ntafa-9154095b/).
 
 ## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevant to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevant to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
 
 #### Communication
 I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
-#### Another skill
+#### Problem Solving and Decision Making
+With many years of experience in customer service roles, I have developed a deep understanding of user needs and a commitment to delivering resolutions. As a customer service manager, I took the initiative to present a monthly report of product defects and common customer complaints and suggested improvements in the production and logistics cycles, while providing the customer service team with a list of solutions to frequently raised conserns. 
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -98,25 +93,14 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### University of Macedonia - Greece 
 
-#### Your University / College (start_date to end_date)
+Bachelor of Science in Computer and Information Sciences and Support Services
+- Field of Study: Development of systems for managerial and economic applications.
+- Grade: 2:1
+- Dissertation: Introducing Buchi Automata and using them in solving AI planning problems applying LTL (Linear Temporal Logic).
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Studying and practising Historical European Martial Arts with the London Longsword Academy since April 2018. I was honoured with the rank of Scholar within the Academy in October 2021. I am currently training to become an instructor at the Academy, specialising in the 16th-century Bolognese school of swordsmanship
