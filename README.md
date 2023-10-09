@@ -65,7 +65,7 @@ _Supply Chain and Office Manager_
 - Addressed employees’ queries regarding hardware, software, and office management issues. <br>
 ***Skills***  *: Business Management · Quick learning · Communication · Problem Solving · Research · Analytical Skills · Sales · Data Entry*
 
-**Self-Employed** (start-date to end-date)  
+**Self-Employed** (01.2015 - 06.2016)  
 _Private Tutor for High School Students_
 
 - Provided supplementary private tuition, preparing students for university admission national exams in basic programming and network fundamentals. The equivalent in the UK would be to prepare year 10-11 students for their technology GCSE examinations.
